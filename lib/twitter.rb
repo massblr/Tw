@@ -14,7 +14,6 @@ end
 def messages
   client.update('Mon premier tweet Ruby !!')
   client.update('coucou !!')
-  client.update('coucou mona!!')
 end
 
 def perform
